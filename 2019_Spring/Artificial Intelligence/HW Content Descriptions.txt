@@ -1,0 +1,10 @@
+All assignments were coded using python, and they are formatted as a .ipynb (ipythonNotebook)
+I used google colab to create all of them.
+
+Lab1 : Basic Chatbot & description of environment metrics for different types of Agents
+Lab2 : Used networkx to visualize a graph and using Beam Search / BFS to find a specified optimal route
+Lab3 : Used Keras and SciKitLearn to create a neural network model 
+		that analyzes an image and reports if it detects a dog or a cat
+Lab4 : Used Keras and SciKitLearn to create a neural network model that detects
+		the type of language used in a tweer and decides what 
+		sentiment that language has (positive, neutral, negative)

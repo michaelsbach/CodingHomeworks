@@ -1,0 +1,10 @@
+All assignments were coded using python, and they are formatted as a .ipynb (ipythonNotebook)
+I used google colab to create all of them.
+
+HW1 : Basic Python (function declarations, accepting input, messing with tuples/sets/lists, etc)
+HW2 : More Python (mock of text editor search & replace, removing extra whitespace, etc)
+HW3 : Practice with statistics through using basic python to get stats and graphing them 
+			(max, min, mean, stddev, percentiles 25, 50, & 75)
+HW4 : Practice with numpy library through getting statistics of .txt & analyzing a provided dataset
+HW5 : Practice with matplotlib.pyplot (pie, bar, subplots)
+HW6 : More practice with matplotlib.pyplot (line, subplots, bar)

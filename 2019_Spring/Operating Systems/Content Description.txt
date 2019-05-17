@@ -1,0 +1,7 @@
+All of the following assignments are in C. (Assign 4 implemented in C and Java)
+
+Assign0: C Programming Practice
+Assign1: Process Creation & Files
+Assign2: Process Scheduling
+Assign3: Virtual Memory Management, Paging & address translation
+Assign4: Threads

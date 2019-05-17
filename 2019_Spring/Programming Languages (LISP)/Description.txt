@@ -1,0 +1,10 @@
+These 2 homeworks were made in CLISP.
+
+assign5: removing NIL's from top/2nd nested level/all nested levels, checking if list is palindrome,
+	and reversing list from top or from all nested levels.
+	(utilizes defun)
+
+assign6: 2 macros: 
+	the first adds the 2 numbers it is passed
+	the second simulates the usage of a for loop and evaluates body expressions on each loop.
+	(utilizes defmacro)

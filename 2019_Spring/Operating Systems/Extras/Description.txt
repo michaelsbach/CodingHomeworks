@@ -1,0 +1,7 @@
+These programs use C and utilize processes & threads.
+
+
+Assign 1: Uses forking and linked lists to count the number of unique words in any provided files
+
+
+Assign 2: Uses threads & synchronization in the form of semaphores to count the number of unique words in any provided files
